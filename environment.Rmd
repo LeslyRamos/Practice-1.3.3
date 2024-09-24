@@ -1,6 +1,6 @@
 ---
 title: 'Practice 1.3: R Class'
----
+---## Working directory problem
 
 ```{r eval=TRUE, message=FALSE, warning=FALSE, include=FALSE, purl=F, results="hide"}
  # knitr::purl('environment.Rmd', documentation = 0)
