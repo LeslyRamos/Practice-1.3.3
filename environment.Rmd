@@ -11,7 +11,7 @@ xfun::embed_file('environment.Rmd')
 ```
 
 ```{r echo=FALSE, purl=F}
-xfun::embed_file('environment.R')
+#xfun::embed_file('environment.R')
 ```
 
 ```{r echo=FALSE, purl=F}
