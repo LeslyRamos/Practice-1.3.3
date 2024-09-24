@@ -1,5 +1,5 @@
 ---
-title: 'Practice 1.3'
+title: 'Practice 1.3: R Class'
 ---
 
 ```{r eval=TRUE, message=FALSE, warning=FALSE, include=FALSE, purl=F, results="hide"}
